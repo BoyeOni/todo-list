@@ -9,6 +9,7 @@ export default function Home() {
     <Container>
       <Header />
       <AddTodo />
+      <Body />
     </Container>
   );
 }
